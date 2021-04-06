@@ -4,8 +4,6 @@
 
 
 
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -69,5 +67,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Códigos feitos com ♥ by Bruno Oliveira durante a formação Java e Orientação a Objetos na [Alura](https://cursos.alura.com.br/formacao-java). :blue_heart: 
 
-[^Nota]: *Vale ressaltar que foi meu primeiro contato com a linguagem e não houve refatoração até o momento dos primeiros códigos em que desenvolvi com os conheciemntos mais básicos, sem saber inclusive das features do Java 8 (lambda, streams). Em breve, quem sabe* :crossed_fingers: :wink: ​
+<br>
+
+Nota: *Vale ressaltar que foi meu primeiro contato com a linguagem e não houve refatoração até o momento dos primeiros códigos em que desenvolvi com os conheciemntos mais básicos, sem saber inclusive das features do Java 8 (lambda, streams). Em breve, quem sabe* :crossed_fingers: :wink: ​
 
