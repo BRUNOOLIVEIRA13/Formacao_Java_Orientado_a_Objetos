@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bytebank-exe:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/bytebank_exe_jar</output-path>
+    <root id="archive" name="bytebank-herdado-conta.jar">
+      <element id="module-output" name="bytebank-herdado-conta" />
+    </root>
+  </artifact>
+</component>
