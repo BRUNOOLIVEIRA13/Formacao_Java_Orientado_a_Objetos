@@ -53,7 +53,7 @@ Esses códigos foram desenvolvidos com as seguintes tecnologias:
 
 👾 Por fim, mas não menos importante, tem códigos focados no desenvolvimento ágil em específico o desenvolvimento guiado por testes, o TDD (Test Driven Development), usando junto a biblioteca JUnit.
 
-📫 Espero que goste, qualquer dúvida ou sugestão me encontro a disposição! [LinkedIn](https://www.linkedin.com/in/brunooliveira13/).
+📫 Espero que goste, qualquer dúvida ou sugestão me encontro a disposição! [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/).
 
 <br>
 
